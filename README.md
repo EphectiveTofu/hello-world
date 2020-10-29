@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+My name is Kenneth and I like butter chicken
+This is my GitHub
